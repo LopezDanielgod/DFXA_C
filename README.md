@@ -2,4 +2,4 @@
 
 ## [Indice](./README.md)
 
-- [Histograma](./daniel-ojiva.ipynb)
+- [Ojiva](./daniel-ojiva.ipynb)
