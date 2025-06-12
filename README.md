@@ -1,5 +1,5 @@
-# DFXA_C
+# Equipo DFXA_C
 
 ## [Indice](./README.md)
 
-- [Histograma](./Histograma/daniel-histograma.ipynb) 
+- [Histograma](./Histograma/daniel-histograma.ipynb)
